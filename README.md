@@ -30,7 +30,7 @@
 
 ---
 
-### 🚀 Technologies I Use
+###  Technologies I Use
 
 #### 💻 Frontend
 ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
