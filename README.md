@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, ben Koray Dinç</h1>
+<h1 align="center">Hi 👋, I'm Koray Dinç</h1>
 <h3 align="center">React & Next.js Developer</h3>
 
 <p align="center">
@@ -12,16 +12,16 @@
 
 ---
 
-### 🧠 Hakkımda
+### 🧠 About Me
 
-- 🚀 Yaklaşık **2 yıldır** React ve web teknolojileriyle projeler geliştiriyorum.  
-- 🔭 Şu anda **Next.js 15**, **TailwindCSS 4**, **Redux Toolkit**, **React Query** gibi modern araçlarla çalışıyorum.  
-- 🧩 Genellikle **httpOnly auth**, **FCM bildirim sistemi**, **erişilebilirlik analizi** ve **PDF raporlama** gibi kapsamlı yapıların içinde yer alıyorum.  
-- 📚 Her gün düzenli olarak kendimi geliştiriyor ve projeler üzerinden uygulamalı pratik yapıyorum.
+-  I've been building web applications with **React** and modern web technologies for about **2 years**.  
+-  Currently focused on tools like **Next.js 15**, **TailwindCSS 4**, **Redux Toolkit**, and **React Query**.  
+-  I mostly work on systems involving **httpOnly authentication**, **FCM notifications**, **accessibility analysis**, and **PDF reporting**.  
+-  I'm committed to daily self-improvement through consistent practice and hands-on projects.
 
 ---
 
-### 🚀 Kullandığım Teknolojiler
+### 🚀 Technologies I Use
 
 #### 💻 Frontend
 ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
@@ -37,39 +37,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-#### ⚙️ Diğer
+#### ⚙️ Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
-
-### 📈 GitHub İstatistikleri
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koraydinc&show_icons=true&theme=tokyonight" alt="stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koraydinc&layout=compact&theme=tokyonight" alt="langs" height="165" />
-</p>
-
----
-
-### 🎯 Odaklandığım Konular
-
-- 🔐 Güvenli kimlik doğrulama sistemleri (httpOnly JWT, refresh token yapıları)
-- 📲 React Native projelerinde bildirim ve yönlendirme sistemleri (FCM + Notifee)
-- 🧾 PDF rapor oluşturma (Türkçe karakter destekli sistemler)
-- ♿ Web erişilebilirliği & kullanıcı deneyimi
-- 🧠 Yapay zekâ destekli analiz çözümleri
-
----
-
-### 💬 İletişim
-
-📫 Bana ulaşmak için:  
-🔗 [LinkedIn](https://www.linkedin.com/in/koray-din%c3%a7-30185a25b/)  
-📩 koraydinc.dev@gmail.com  
-
----
-
-> **"Kod sadece çalışmakla kalmamalı; anlaşılabilir, sürdürülebilir ve değer üretmeli."**  
-> – Koray Dinç
