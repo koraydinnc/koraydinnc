@@ -1,8 +1,8 @@
 <h1 align="center">Merhaba 👋, ben Koray Dinç</h1>
-<h3 align="center">Full-Stack React & Next.js Developer | Performans, Erişilebilirlik ve Mimaride Uzmanlaşıyor</h3>
+<h3 align="center">React & Next.js Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/koray-dinç-30185a25b/" target="_blank">
+  <a href="https://www.linkedin.com/in/koray-din%c3%a7-30185a25b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:koraydinc.dev@gmail.com">
@@ -14,11 +14,10 @@
 
 ### 🧠 Hakkımda
 
-- 🚀 5+ yıldır **JavaScript** ve **React** dünyasında üretim yapıyorum.  
-- 🔭 Şu anda **Next.js 15**, **TailwindCSS 4**, **Shadcn**, **Redux Toolkit**, **React Query** ile SR seviyeye uygun sistemler geliştiriyorum.  
-- 🧩 Performans, erişilebilirlik ve ölçeklenebilirlik odaklı **full-stack mimari** konularında derinleşiyorum.  
-- 💬 Projelerimde genellikle **httpOnly auth**, **SSR/ISR teknikleri**, **FCM entegrasyonu**, **PDF raporlama** ve **AI destekli analiz sistemleri** kullanıyorum.  
-- 🧭 Günlük olarak öğrenme takibi yapıyor, **Notion + Kalem/Defter** ile kendime gelişim görevleri belirliyorum.
+- 🚀 Yaklaşık **2 yıldır** React ve web teknolojileriyle projeler geliştiriyorum.  
+- 🔭 Şu anda **Next.js 15**, **TailwindCSS 4**, **Redux Toolkit**, **React Query** gibi modern araçlarla çalışıyorum.  
+- 🧩 Genellikle **httpOnly auth**, **FCM bildirim sistemi**, **erişilebilirlik analizi** ve **PDF raporlama** gibi kapsamlı yapıların içinde yer alıyorum.  
+- 📚 Her gün düzenli olarak kendimi geliştiriyor ve projeler üzerinden uygulamalı pratik yapıyorum.
 
 ---
 
@@ -27,7 +26,7 @@
 #### 💻 Frontend
 ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux--Toolkit-593D88?style=flat&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer--Motion-black?style=flat&logo=framer&logoColor=white)
 
@@ -54,23 +53,23 @@
 
 ---
 
-### 🎯 Gelişim Hedeflerim (2025)
+### 🎯 Odaklandığım Konular
 
-- ✅ Next.js SR seviyede projelerde ileri düzey performans optimizasyonları  
-- ✅ Erişilebilirlik odaklı tam otomatik analiz ve raporlama sistemleri  
-- ✅ Yapay zeka destekli front-end asistanı geliştirmek  
-- ✅ Cross-platform (React Native) sağlık takip uygulaması ürünleştirme  
-- ✅ Kendi yazılım geliştirme rehberimi yayınlamak
-
----
-
-### 💬 Benimle İletişime Geçin
-
-🔗 LinkedIn üzerinden doğrudan yazabilirsiniz:  
-**[Koray Dinç - LinkedIn](https://www.linkedin.com/in/koray-din%c3%a7-30185a25b/)**  
-📩 Mail: **koraydinc.dev@gmail.com**
+- 🔐 Güvenli kimlik doğrulama sistemleri (httpOnly JWT, refresh token yapıları)
+- 📲 React Native projelerinde bildirim ve yönlendirme sistemleri (FCM + Notifee)
+- 🧾 PDF rapor oluşturma (Türkçe karakter destekli sistemler)
+- ♿ Web erişilebilirliği & kullanıcı deneyimi
+- 🧠 Yapay zekâ destekli analiz çözümleri
 
 ---
 
-> **Kodun sadece çalışması yetmez; sürdürülebilir, erişilebilir ve hızlı olmalı.**  
+### 💬 İletişim
+
+📫 Bana ulaşmak için:  
+🔗 [LinkedIn](https://www.linkedin.com/in/koray-din%c3%a7-30185a25b/)  
+📩 koraydinc.dev@gmail.com  
+
+---
+
+> **"Kod sadece çalışmakla kalmamalı; anlaşılabilir, sürdürülebilir ve değer üretmeli."**  
 > – Koray Dinç
