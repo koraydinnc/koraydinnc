@@ -1,10 +1,76 @@
-<h1 align="center">Hi 👋, I'm Koray</h1>
-<h3 align="center">Frontend Developer</h3>
+<h1 align="center">Merhaba 👋, ben Koray Dinç</h1>
+<h3 align="center">Full-Stack React & Next.js Developer | Performans, Erişilebilirlik ve Mimaride Uzmanlaşıyor</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/koray-din%c3%a7-30185a25b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/koray-din%c3%a7-30185a25b/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/koray-dinç-30185a25b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:koraydinc.dev@gmail.com">
+    <img src="https://img.shields.io/badge/E--Mail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+### 🧠 Hakkımda
+
+- 🚀 5+ yıldır **JavaScript** ve **React** dünyasında üretim yapıyorum.  
+- 🔭 Şu anda **Next.js 15**, **TailwindCSS 4**, **Shadcn**, **Redux Toolkit**, **React Query** ile SR seviyeye uygun sistemler geliştiriyorum.  
+- 🧩 Performans, erişilebilirlik ve ölçeklenebilirlik odaklı **full-stack mimari** konularında derinleşiyorum.  
+- 💬 Projelerimde genellikle **httpOnly auth**, **SSR/ISR teknikleri**, **FCM entegrasyonu**, **PDF raporlama** ve **AI destekli analiz sistemleri** kullanıyorum.  
+- 🧭 Günlük olarak öğrenme takibi yapıyor, **Notion + Kalem/Defter** ile kendime gelişim görevleri belirliyorum.
+
+---
+
+### 🚀 Kullandığım Teknolojiler
+
+#### 💻 Frontend
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer--Motion-black?style=flat&logo=framer&logoColor=white)
+
+#### 🧠 Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+#### ⚙️ Diğer
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+### 📈 GitHub İstatistikleri
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=koraydinc&show_icons=true&theme=tokyonight" alt="stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koraydinc&layout=compact&theme=tokyonight" alt="langs" height="165" />
+</p>
+
+---
+
+### 🎯 Gelişim Hedeflerim (2025)
+
+- ✅ Next.js SR seviyede projelerde ileri düzey performans optimizasyonları  
+- ✅ Erişilebilirlik odaklı tam otomatik analiz ve raporlama sistemleri  
+- ✅ Yapay zeka destekli front-end asistanı geliştirmek  
+- ✅ Cross-platform (React Native) sağlık takip uygulaması ürünleştirme  
+- ✅ Kendi yazılım geliştirme rehberimi yayınlamak
+
+---
+
+### 💬 Benimle İletişime Geçin
+
+🔗 LinkedIn üzerinden doğrudan yazabilirsiniz:  
+**[Koray Dinç - LinkedIn](https://www.linkedin.com/in/koray-din%c3%a7-30185a25b/)**  
+📩 Mail: **koraydinc.dev@gmail.com**
+
+---
+
+> **Kodun sadece çalışması yetmez; sürdürülebilir, erişilebilir ve hızlı olmalı.**  
+> – Koray Dinç
