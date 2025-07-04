@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Koray Dinç</h1>
-<h3 align="center">Computer Engineer | Software Developer</h3>
-<h3 align="center">React & Next.js Enthusiast</h3>
+<h3 align="center">Computer Engineer </h3>
+<h3 align="center">React & Next.js Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/koray-din%c3%a7-30185a25b/" target="_blank">
