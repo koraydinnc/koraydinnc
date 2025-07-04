@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Koray Dinç</h1>
+<h1 align="center">Hi 👋, I'm Koray Dinc</h1>
 <h3 align="center">React & Next.js Developer</h3>
 
 <p align="center">
