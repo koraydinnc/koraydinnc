@@ -12,20 +12,20 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 - I've been working with **React** and modern web technologies for about **2 years**.
 - I develop **full-stack applications** using **Next.js API Routes**, with a strong focus on **security**, **performance**, and **scalability**.
 - I build secure panels with login, register, user profile, and role-based access logic.
 - I implement core backend security practices such as:
-  - 🔒 **IDOR protection** via custom middleware to restrict users to their own data
-  - 🔐 **Path validation** to prevent exposing server directories during file uploads
-  - 🚫 **Rate limiting** to prevent abuse on sensitive endpoints
-  - 🧾 **Token tracking** to monitor and analyze user sessions
+  -  **IDOR protection** via custom middleware to restrict users to their own data
+  -  **Path validation** to prevent exposing server directories during file uploads
+  -  **Rate limiting** to prevent abuse on sensitive endpoints
+  -  **Token tracking** to monitor and analyze user sessions
 - For performance, I apply:
-  - ⚡️ **useMemo**, **lazy loading**, **component splitting**, **custom caching**, and **clean code practices**
+  -  **useMemo**, **lazy loading**, **component splitting**, **custom caching**, and **clean code practices**
 - I also build and publish **React Native mobile applications** to both **App Store** and **Google Play**:
-  - 🔔 Featuring **FCM push notifications**, deep linking, and user-centered mobile UX
+  -  Featuring **FCM push notifications**, deep linking, and user-centered mobile UX
 - I consistently improve myself through daily practice, real-world projects, and exploration of advanced front-end/backend techniques.
 
 ---
